@@ -24,5 +24,5 @@ The repository is organized to follow the standard hardware design flow:
 * 📁 **`Simulations/`**: Contains oscilloscope screenshots from TINA-TI verifying the sine wave generation and frequency response.
 * 📁 **`Data_Sheets/`**: Official manufacturer datasheets for the critical components used in the design (e.g., op-amps, diodes).
 * 🖼️ **`schema_bloc.png`**: The system-level block diagram illustrating the oscillator's functional stages.
-* 📄 **`BOM_Oscilator.docx`**: The Bill of Materials detailing the selected components.
+* 📄 **`BOM_P1_Necula_Adrian.xls`**: The Bill of Materials detailing the selected components.
 * 📄 **`Documentatie.pdf`**: The comprehensive project report, including design equations, thermal considerations, and full layout prints.
